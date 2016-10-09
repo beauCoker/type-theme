@@ -21,6 +21,7 @@ Since I probably should have recalibrated after each measurement, I think the or
 ![Scatter](\img\2016-10-09-nespresso\bar_chart.png)
 
 Now, we can look at the results. Overall, I'm pretty happy with the consistency between the two trials --- the maximum difference in pH is 0.12. Here are a few observations:
+
 *	Rosabaya de Colombia is the most acidic, which isn't surprising.
 *	Monsoon Malabar is significantly more basic than the others.
 *	The two trials of Ciocattino are highly correlated, which gives me confidence my measurements are fairly accurate.
