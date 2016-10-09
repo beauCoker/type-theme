@@ -1,12 +1,18 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: "img/test.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Hi there! I'm Beau.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I’m currently a master’s student in Statistical Science at Duke University. Previously, I was a quantitative researcher at State Street Associates, which is a financial research group and partnership with a few professors at Harvard and MIT.
+
+
+In general, I’m interested in statistical mechanics, critical phenomena, stock market crashes, and, more recently, Bayesian statistics and machine learning. Also, cooking and basketball.
+
+To see some of my research, check out the [Tufts Soft Matter Theory Group](https://sites.tufts.edu/softmattertheory/people/) and my undergraduate thesis [*Do Physical Analogies of Stock Market Crashes Make Sense?*](http://hdl.handle.net/10427/78127)
+
+
