@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>A blog about statistics and school</p>
+     <p>A blog about statistics and school and sometimes food</p>
   header_text_feature_image: "img/castaing_cover.png"
   footer_text: 
 
